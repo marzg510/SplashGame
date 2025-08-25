@@ -14,3 +14,8 @@ Splashing game app
 ## 言語
 - Flutter
 
+
+## 関連リポジトリ
+
+- https://github.com/marzg510/tic_tac_toe
+- https://github.com/marzg510/destino
